@@ -6,7 +6,7 @@ built on the TRITON flood model. This is the data-compilation stage for New York
 City, the first of three test cities (NYC, Philadelphia, Chicago).
 
 **View the interactive map:**
-[nyc_inventory_map.html](https://yourusername.github.io/nyc-flood-inventory/nyc_inventory_map.html)
+[nyc_inventory_map.html](https://rafyWRP.github.io/cercat-urbanflood-modeling/nyc_inventory_map.html)
 
 ## What's in the map
 
